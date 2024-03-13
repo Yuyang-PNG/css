@@ -1,0 +1,9 @@
+*{
+    user-select: none;
+    /* 无法选中，整体感更强 */
+}
+<script>
+window.oncontextmenu=function(e){
+	e.preventDefault():
+}
+</script>
